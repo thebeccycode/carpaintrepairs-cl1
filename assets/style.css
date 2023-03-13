@@ -1,0 +1,16 @@
+.navbar{
+    background-color: #f27c22;
+    border: black 2px;
+    margin: 20px;
+    padding-left: 50px;
+}
+
+.navbar h1{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 100px;
+}
+
+.navbar p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+}
